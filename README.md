@@ -5,5 +5,5 @@ Special thanks to GrapheneOS Devs
 
 ```
 PRODUCT_PACKAGES += \
-    Camera-17.apk
+    Camera-17
 ```
