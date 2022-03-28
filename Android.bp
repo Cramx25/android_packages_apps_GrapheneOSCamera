@@ -1,7 +1,7 @@
 android_app_import {
-	name: "Camera17",
+	name: "GrapheneOSCamera",
 	owner: "grapheneos",
-	apk: "Camera17.apk",
+	apk: "GrapheneOSCamera.apk",
 	presigned: true,
 	dex_preopt: {
 		enabled: false,
